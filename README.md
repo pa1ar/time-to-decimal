@@ -4,6 +4,8 @@ This Alfred workflow converts time in the format of `hh:mm:ss` or `hh:mm` into a
 
 ## Features
 
+<img width="623" alt="time-to-decimal in action" src="https://github.com/pa1ar/time-to-decimal/assets/5346720/2f9674b0-40c2-4b3d-8c5f-cc81512f7196">
+
 - Convert time format to decimal.
 - Copy the result to clipboard with one keystroke.
 - Supports both `hh:mm:ss` and `hh:mm` formats.
@@ -16,6 +18,8 @@ This Alfred workflow converts time in the format of `hh:mm:ss` or `hh:mm` into a
 3. Type the keyword `t2d`.
 4. The converted decimal number is displayed in Alfred's result pane.
 5. Press Enter to copy the decimal number to the clipboard.
+
+![time-to-decimal](https://github.com/pa1ar/time-to-decimal/assets/5346720/f33a241f-66c6-4222-8a2a-2e783366e5c9)
 
 Of course you can also just type or paste your time into Alfred after filtering the script by `t2d` keyword.
 
