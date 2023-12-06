@@ -36,7 +36,8 @@ Of course you can also just type or paste your time into Alfred after filtering 
 
 ## Contributing
 
-Contributions to the Time to Decimal workflow are welcome. Please feel free to fork the repository, make your changes, and submit a pull request.
+Contributions to the Time to Decimal workflow are welcome. 
+Feel free to fork the repository, make your changes, and submit a pull request.
 
 ## License
 
